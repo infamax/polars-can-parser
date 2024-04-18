@@ -10,3 +10,10 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
+version = "0.0.0"
+authors = [
+    {name="Maxim Partin"}
+]
+description = "Tools for working with can data in polars"
+[project.urls]
+"Homepage" = "https://github.com/infamax/polars-can-parser/"
